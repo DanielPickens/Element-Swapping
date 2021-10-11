@@ -11,4 +11,4 @@ return arr;
 }
 
 
-//algo: Greedily,  we find the smallest element from `arr` and swap it to the front
+
